@@ -1,0 +1,3 @@
+test aws creds
+accesskey: AKIA4SSNV56AI55KXGNN
+secret: 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
